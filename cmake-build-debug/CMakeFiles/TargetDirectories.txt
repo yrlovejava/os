@@ -1,0 +1,3 @@
+/Users/bytedance/yr_c_project/os/cmake-build-debug/CMakeFiles/os.dir
+/Users/bytedance/yr_c_project/os/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bytedance/yr_c_project/os/cmake-build-debug/CMakeFiles/rebuild_cache.dir
